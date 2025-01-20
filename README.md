@@ -67,6 +67,8 @@ void loop() {
   }
 }
 
+---
+
 ## Steps to Use
 
 1. **Connect the IR sensor to the Arduino**:
