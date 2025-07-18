@@ -23,6 +23,11 @@ Welcome to the **Arduino Remote-Controlled Car** project repository! 🚗 This p
 
 ---
 
+<p align="center">
+  <img src="img.jpg" alt="Confusion Matrix" width="600">
+</p>
+
+
 ## **Hardware Requirements**
 1. **Arduino Uno** microcontroller
 2. **IR Sensors (TSOP1738)** for decoding remote signals
